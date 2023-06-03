@@ -30,7 +30,7 @@ label {
 }
 
 label, input {
-  display: block;
+  display: none;
 }
 
 .wrapper .half {
