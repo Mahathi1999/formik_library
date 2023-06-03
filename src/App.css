@@ -19,6 +19,11 @@
   color: #09d3ac;
 }
 
+.form {
+  display: block;
+  margin-top: 0em;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
