@@ -28,7 +28,9 @@
 label {
   text-align: left;
 }
-
+label, input {
+  display: inline;
+}
 
 .wrapper .half {
   display: inline-block;
